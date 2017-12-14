@@ -1,1 +1,44 @@
 /* add your CSS here */
+body {
+    max-width: 320px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 7px 7px #888888;
+    display: inline-flex;
+    text-align: center;
+}
+
+h2 {    
+    text-align: left;
+    padding-left: 10px;
+}
+
+img { 
+    max-width: 300px;
+}
+
+#fact {
+    font-style: italic;
+}
+
+span:first-of-type {
+   font-weight: bold; 
+}
+#text {
+    margin: 10px 10px;    
+    border: 2px solid lightgray;    
+    text-align: left;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 10px;
+}
+
+p {
+    padding: 0 10px; 
+    text-align: justify;
+}
