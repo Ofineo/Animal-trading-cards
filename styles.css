@@ -2,10 +2,15 @@
 body {
     max-width: 320px;
     border: 2px solid lightgray;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 7px 7px #888888;
     display: inline-flex;
     text-align: center;
+}
+
+#card {    
+    background-color: lightskyblue;
+    border-radius: 9px;
 }
 
 h2 {    
